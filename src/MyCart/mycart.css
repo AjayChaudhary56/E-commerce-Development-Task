@@ -1,0 +1,31 @@
+.cart-main{
+
+}
+.cart-title{
+font-size:3rem;
+font-weight: 600;
+color: #1F5156;
+margin-top:6vh;
+margin-left:10vw;
+}
+.cart-count{
+    margin-left:10vw;
+
+}
+.cart-items{
+    /* border: 1px solid red; */
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+    width: 80vw;
+    height:80vh;
+    margin-left: 9vw;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    border-radius: 20px;
+}
+.total{
+    font-size:1.2rem;
+    font-weight: 400;
+    float:right;
+    margin-right: 5vw;
+    color: #1F5156;
+}
