@@ -9,8 +9,8 @@ import NavBar from "./Navbar/Navbar";
 import CartItem from "./CartItem/CartItem";
 
 import { useState } from "react";
-import Search from "./Search/Search.jsx";
-import Cart from "./Cart/Cart.jsx";
+import Search from "./Search/Search";
+import Cart from "./Cart/Cart";
 
 
 function App() {
